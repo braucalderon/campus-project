@@ -4,7 +4,6 @@ import fire from "../Firebase/firebase.js";
 class AddCampus extends Component {
   constructor() {
     super();
-
     this.state = {
       id:"",
       name: "",
