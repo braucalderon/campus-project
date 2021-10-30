@@ -1,0 +1,14 @@
+.studentCard{
+    margin: 1vh;
+    font-size: 2vh;
+    
+    width: 35vh;
+    padding: 0 0.5%;
+    border-radius: 1vh;
+    line-height: .5;
+}
+
+.studentDisplayCard{
+    display: flex;
+    flex-flow: wrap;
+}

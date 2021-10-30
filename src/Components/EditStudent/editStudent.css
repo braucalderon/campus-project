@@ -1,0 +1,8 @@
+.editStudent {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding: 2vh;
+    /* border: black solid 3px; */
+}
